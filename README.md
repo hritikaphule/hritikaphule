@@ -1,17 +1,6 @@
 <h1 align="center">Hi, I'm Hritika Phule</h1>
 <h3 align="center">Hi, I'm Hritika Phule! I'm a grad student pursuing an MS in Computer Science at California State University, Fullerton. I'm enthusiastic about technology and always eager to learn new things. I enjoy building scalable systems and leveraging machine learning to solve real-world problems..</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/hritika-phule" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hritika-phule" height="30" width="40" />
-  </a>
-</p>
-<p align="left">
-  <a href="mailto:hritika.phule16@gmail.com">
-    <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="hritika.phule16@gmail.com" height="30" width="40" />
-  </a>
-</p>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
@@ -110,5 +99,16 @@
   </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+</p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/hritika-phule" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hritika-phule" height="30" width="40" />
+  </a>
+</p>
+<p align="left">
+  <a href="mailto:hritika.phule16@gmail.com">
+    <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="hritika.phule16@gmail.com" height="30" width="40" />
   </a>
 </p>
