@@ -7,6 +7,11 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hritika-phule" height="30" width="40" />
   </a>
 </p>
+<p align="left">
+  <a href="mailto:hritika.phule16@gmail.com">
+    <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="hritika.phule16@gmail.com" height="30" width="40" />
+  </a>
+</p>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
