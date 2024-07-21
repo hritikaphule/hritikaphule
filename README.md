@@ -1,7 +1,7 @@
 <h1 align="center">Hello!</h1>
-<h3 align="center" style="font-family: Times New Roman, sans-serif; color: #2c3e50; line-height: 1.0;"> I'm Hritika Phule studying MS CS at California State University,Fullerton. I have a strong passion for Artificial Intelligence, Backend development, and solving complex problems. I continuously seek to expand my knowledge and skills in these areas. Whether I'm developing innovative AI solutions or building robust backend systems, I am dedicated to creating efficient and impactful technology.</h3>
+💫 About Me:
 
-
+I'm Hritika Phule studying MS CS at California State University,Fullerton. I have a strong passion for Artificial Intelligence, Backend development, and solving complex problems. I continuously seek to expand my knowledge and skills in these areas. Whether I'm developing innovative AI solutions or building robust backend systems, I am dedicated to creating efficient and impactful technology
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
