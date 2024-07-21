@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Hritika Phule</h1>
-<h3 align="center">Hi, I'm Hritika Phule! I'm a grad student pursuing an MS in Computer Science at California State University, Fullerton. I'm enthusiastic about technology and always eager to learn new things. I enjoy building scalable systems and leveraging machine learning to solve real-world problems..</h3>
+<h1 align="center">Hello!</h1>
+<h3 align="center" style="font-family: Times New Roman, sans-serif; color: #2c3e50; line-height: 1.0;"> I'm Hritika Phule studying MS CS at California State University,Fullerton. I have a strong passion for Artificial Intelligence, Backend development, and solving complex problems. I continuously seek to expand my knowledge and skills in these areas. Whether I'm developing innovative AI solutions or building robust backend systems, I am dedicated to creating efficient and impactful technology.</h3>
 
 
 <h3 align="left">Languages:</h3>
