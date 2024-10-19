@@ -30,7 +30,7 @@
   I would love to connect and collaborate!
 
 <p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/hritika-phule/">
+  <a href="https://www.linkedin.com/in/hritika-phule/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:hritika.phule16@gmail.com">
